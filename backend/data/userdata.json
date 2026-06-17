@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Elma",
+    "email": "elma@gmail.com",
+    "password": "$2b$10$wi27rP2.vt0/Vh/1MkeRWeR72QxFis94WvztUWA91gfpGq.PiBcXy",
+    "role": "admin"
+  },
+  {
+    "id": 1001,
+    "name": "Rowshan Nahar Samiha",
+    "email": "sam@gmail.com",
+    "password": "$2b$10$iOgpfsb0WMiWPyYxCMAgtelCGHL7CqU5CGUqcvLN7c2rcMcDCsgiW",
+    "role": "user"
+  },
+  {
+    "id": "1003",
+    "name": "Israt Jahan",
+    "email": "ij@gmail.com",
+    "password": "$2b$10$7vQKuQPP/BcfZZ7vIDI8SOAGmq4mhYIMxv2l3veEA.HnDcT05JFb2",
+    "role": "user"
+  }
+]

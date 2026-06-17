@@ -1,0 +1,44 @@
+[
+  {
+    "taskId": "102",
+    "title": "Inventory Check",
+    "description": "Review inventory records and report missing items",
+    "userId": "1002",
+    "status": "Completed"
+  },
+  {
+    "taskId": "103",
+    "title": "Customer Feedback Analysis",
+    "description": "Analyze customer feedback and prepare improvement suggestions",
+    "userId": "1002",
+    "status": "Pending"
+  },
+  {
+    "taskId": "104",
+    "title": "React Dashboard Updated",
+    "description": "Update UI Design",
+    "userId": "1003",
+    "status": "Pending"
+  },
+  {
+    "taskId": "106",
+    "title": "Social Media Management",
+    "description": "Schedule and publish content on company social media accounts",
+    "userId": "1001",
+    "status": "Completed"
+  },
+  {
+    "taskId": "906",
+    "title": "Market Research",
+    "description": "prepare a summary report",
+    "userId": "1001",
+    "status": "Completed"
+  },
+  {
+    "taskId": "808",
+    "title": "Event Coordination",
+    "description": "venue booking, participant registration, and event logistics",
+    "userId": "1001",
+    "status": "Pending"
+  }
+]

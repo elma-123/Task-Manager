@@ -3,11 +3,11 @@
 A full-stack Task Manager System developed using React.js, Node.js, Express.js, JWT Authentication, and bcrypt password encryption. The system provides separate Admin and User panels with role-based access control, allowing administrators to manage users and tasks efficiently while enabling users to view and complete assigned tasks.
 
 
-## Admin Dashboard
+
 
 ![Admin Dashboard](Output/admin.png)
 
-## User Dashboard
+
 
 ![User Dashboard](Output/user.png)
 

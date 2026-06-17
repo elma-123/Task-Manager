@@ -103,7 +103,7 @@ Task Manager
 ### Clone Repository
 
 ```bash
-git clone [<repository-url>](https://github.com/elma-123/Task-Manager)
+git clone https://github.com/elma-123/Task-Manager
 ```
 
 ### Backend Setup

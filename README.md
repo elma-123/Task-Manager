@@ -1,4 +1,4 @@
-# Task Manager System
+# Task Manager System (Authentication & Authorization)
 
 A full-stack Task Manager System developed using React.js, Node.js, Express.js, JWT Authentication, and bcrypt password encryption. The system provides separate Admin and User panels with role-based access control, allowing administrators to manage users and tasks efficiently while enabling users to view and complete assigned tasks.
 
@@ -10,6 +10,8 @@ A full-stack Task Manager System developed using React.js, Node.js, Express.js, 
 
 
 ![User Dashboard](Output/user.png)
+
+![Admin & User Authentication](./Admin%20%26%20User%20Authentication(JWT).png)
 
 
 ## Features
